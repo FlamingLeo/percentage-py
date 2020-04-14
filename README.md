@@ -1,2 +1,3 @@
 # percentage-py
-Percentage Calculator, written in Python
+
+Calculator that allows for simple percentage calculations, written in Python.
